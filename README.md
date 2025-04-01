@@ -1,60 +1,60 @@
-# BLONWINER_Breakout_Board_for_Raspberry_Pi_Pico
-> Apply to BSKU003.
+＃Blonwiner_breakout_board_for_raspberry_pi_pico​
+>应用于BSKU003。
 
-### Download
+＃＃＃下载
 
-Click the green "Code" button, then click "Download ZIP" button in the pop-up window.  
-Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
+单击绿色的“代码”按钮，然后单击弹出窗口中的“下载zip”按钮。  
+请勿单击“在桌面中打开”按钮，它将导致您安装GitHub软件。
 
-> If you meet any difficulties, please contact our technical team for help.
+>如果您遇到任何困难，请联系我们的技术团队寻求帮助。
 
-### Use
+＃＃＃使用
 
-1. Download the ZIP file as above.
-2. Unzip it and you will get a folder contains tutorials and related files.
-   Here we offer tutorials for Arduino, ESP32, ESP8266, Raspberry PI Pico and Raspberry PI.
-3. Choose the appropriate processor for your learning needs.
-4. Please start with "Start Here.pdf".
+1。按上述下载zip文件。
+2。解压缩它，您将获得一个文件夹包含教程和相关文件。
+   在这里，我们为Arduino，ESP32，ESP8266，Raspberry Pi Pico和Raspberry Pi提供教程。
+3。为您的学习需求选择适当的处理器。
+4。请从“ start onere.pdf”开始。
 
 
-### Support
+＃＃＃支持
 
-BLONWINER provides free and quick customer support. Including but not limited to:
+Blonwiner提供免费，快速的客户支持。包括但不限于：
 
-* Quality problems of products
-* Problems of products when used
-* Questions of learning and creation
-* Opinions and suggestions
-* Ideas and thoughts
+*产品的质量问题
+*使用时的产品问题
+*学习和创造的问题
+*意见和建议
+*想法和思想
 
-Please send an email to:
+请发送电子邮件至：
 
-[blonwiner@outlook.com](mailto:blonwiner@outlook.com)
+[ blonwiner@outlook.com ] （mailto：blonwiner@outlook.com ）
 
-We will reply within one working day.
+我们将在一个工作日内回复。
 
-### Purchase
+＃＃＃购买
 
-Please visit the following page to purchase our products:
+请访问以下页面购买我们的产品：
 
-https://www.amazon.com/s?me=A3C6JY3ZXGCNPL&marketplaceID=ATVPDKIKX0DER
+https://www.amazon.com/s?me=a3c6jy3zxgcnpl&marketplaceplaceId = atvpdkikx0der
 
-Business customers please contact us through the following email address:
+商业客户请通过以下电子邮件地址与我们联系：
 
-[blonwiner@outlook.com](mailto:blonwiner@outlook.com)
+[ blonwiner@outlook.com ] （mailto：blonwiner@outlook.com ）
 
-### About
+＃＃＃关于
 
-BLONWINER provides open source electronic products and services.
+Blonwiner提供开源电子产品和服务。
 
-BLONWINER is committed to helping customers learn programming and electronic knowledge, quickly implement product prototypes, realize their creativity and launch innovative products. Our services include:
+Blonwiner致力于帮助客户学习编程和电子知识，快速实施产品原型，实现其创造力并推出创新产品。我们的服务包括：
 
-* Kits for learning programming and electronics
-* Kits compatible with Arduino®, Raspberry Pi®, micro:bit®, etc.
-* Kits for robots, smart cars, drones, etc.
-* Components, modules and tools
-* Design and customization
+*学习编程和电子设备的套件
+*套件与Arduino®，RaspberryPi®，Micro：Bit®等兼容。
+*机器人，智能汽车，无人机等的套件。
+*组件，模块和工具
+*设计和定制
 
-To learn more about us or get our latest information, please visit our website:
+要了解有关我们的更多信息或获取最新信息，请访问我们的网站：
 
 http://123mygift.com/
